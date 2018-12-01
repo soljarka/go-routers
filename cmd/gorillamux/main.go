@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-routers/gorillamux"
+	"github.com/ctco-dev/go-routers/gorillamux"
 	"net/http"
 )
 

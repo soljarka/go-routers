@@ -1,7 +1,7 @@
 package gomux
 
 import (
-	"go-routers/middleware"
+	"github.com/ctco-dev/go-routers/middleware"
 	"log"
 	"net/http"
 )

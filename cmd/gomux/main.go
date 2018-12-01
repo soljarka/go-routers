@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-routers/gomux"
+	"github.com/ctco-dev/go-routers/gomux"
 	"net/http"
 )
 

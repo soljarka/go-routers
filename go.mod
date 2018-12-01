@@ -1,4 +1,4 @@
-module go-routers
+module github.com/ctco-dev/go-routers
 
 require (
 	github.com/gorilla/context v1.1.1 // indirect

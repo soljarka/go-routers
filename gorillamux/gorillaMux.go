@@ -1,8 +1,8 @@
 package gorillamux
 
 import (
+	"github.com/ctco-dev/go-routers/middleware"
 	"github.com/gorilla/mux"
-	"go-routers/middleware"
 	"log"
 	"net/http"
 )
