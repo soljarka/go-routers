@@ -1,10 +1,11 @@
 package gorillamux
 
 import (
-	"github.com/ctco-dev/go-routers/middleware"
-	"github.com/gorilla/mux"
 	"log"
 	"net/http"
+
+	"github.com/gorilla/mux"
+	"github.com/soljarka/go-routers/internal/pkg/middleware"
 )
 
 func New() *mux.Router {

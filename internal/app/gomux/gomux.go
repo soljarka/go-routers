@@ -1,9 +1,10 @@
 package gomux
 
 import (
-	"github.com/ctco-dev/go-routers/middleware"
 	"log"
 	"net/http"
+
+	"github.com/soljarka/go-routers/internal/pkg/middleware"
 )
 
 func New() *http.ServeMux {

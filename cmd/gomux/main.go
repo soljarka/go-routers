@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/ctco-dev/go-routers/gomux"
 	"net/http"
+
+	"github.com/soljarka/go-routers/internal/app/gomux"
 )
 
 func main() {
